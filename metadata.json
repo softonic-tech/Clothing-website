@@ -1,0 +1,7 @@
+{
+  "name": "PEPLAB - Wear Your Everyday Extraordinary",
+  "description": "A premium clothing ecommerce storefront for PEPLAB featuring editorial fashion collections, shoppable lookbooks, refined tailoring, and seamless bag & wishlist management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
